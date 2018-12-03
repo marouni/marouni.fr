@@ -2,8 +2,10 @@
 
 body{
     font-family: 'PT Sans', sans-serif;
+    font-display: swap;
 }
 
 h1{
     font-family: 'Raleway', sans-serif;
+    font-display: swap;
 }
